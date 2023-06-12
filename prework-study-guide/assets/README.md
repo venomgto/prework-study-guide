@@ -16,3 +16,9 @@ For this website we have certian sections that focus on the 3 core values of wha
 
 ## Credits
 
+<<<<<<< HEAD
+=======
+N/A
+
+## License
+>>>>>>> b96c5b850f64247a8b782aec0fae109bef0602c9
